@@ -1,0 +1,8 @@
+D:\meir-project\test-meir\test-api\logic\bin\Debug\netstandard2.0\logic.deps.json
+D:\meir-project\test-meir\test-api\logic\bin\Debug\netstandard2.0\logic.dll
+D:\meir-project\test-meir\test-api\logic\obj\Debug\netstandard2.0\logic.csprojAssemblyReference.cache
+D:\meir-project\test-meir\test-api\logic\obj\Debug\netstandard2.0\logic.AssemblyInfoInputs.cache
+D:\meir-project\test-meir\test-api\logic\obj\Debug\netstandard2.0\logic.AssemblyInfo.cs
+D:\meir-project\test-meir\test-api\logic\bin\Debug\netstandard2.0\logic.pdb
+D:\meir-project\test-meir\test-api\logic\obj\Debug\netstandard2.0\logic.dll
+D:\meir-project\test-meir\test-api\logic\obj\Debug\netstandard2.0\logic.pdb
